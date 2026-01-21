@@ -3,12 +3,6 @@
 
 ---
 
-##  Poster Preview
-
-<p align="center">
-  <img src="AI project.jpeg" alt="AI-Based Cloudburst Prediction Poster" width="850"/>
-</p>
-
 📄 **Poster Title:**  
 **AI-Based Cloudburst Prediction and Disaster Resilience: A Case Study of Pakistan**
 
@@ -17,6 +11,11 @@
 Mehran University of Engineering & Technology, Jamshoro, Pakistan
 
 ---
+##  Poster Preview
+
+<p align="center">
+  <img src="AI project.jpeg" alt="AI-Based Cloudburst Prediction Poster" width="850"/>
+</p>
 
 ## 📌 Project Overview
 
