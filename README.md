@@ -6,7 +6,7 @@
 ##  Poster Preview
 
 <p align="center">
-  <img src="AI project.png" alt="AI-Based Cloudburst Prediction Poster" width="850"/>
+  <img src="AI project.jpeg" alt="AI-Based Cloudburst Prediction Poster" width="850"/>
 </p>
 
 📄 **Poster Title:**  
